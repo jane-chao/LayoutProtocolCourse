@@ -3,7 +3,7 @@
 
 📚 Layout Protocol 能讓你根據使用者的裝置、字體和 View 的大小來調整排版。
 
-### 三段影片的內容
+## 三段影片的內容
 [1. 排版基礎：自動判斷 view 的大小](https://youtu.be/du_Bl7Br9DM)
 >認識 Layout 如何讓你能根據裝置、字體大小和 view 需要的寬度來動態地幫你排版。
 >
@@ -17,9 +17,9 @@
 [3. 設定 Layout Key](https://youtu.be/mGDabtyxoqA)
 > 讓每個 view 能在 Layout 時個別提供資訊。我們會設置一個圓形的 Layout，透過 LayoutKey 讓每個 view 自己決定與圓心的距離和位置。
 > 
->[![設定 Layout Key](https://user-images.githubusercontent.com/73167311/174438096-cc2af9c9-67e3-48ee-855a-4c681e8b59fc.gif)](https://youtu.be/mGDabtyxoqA)
+>![設定 Layout Key](https://user-images.githubusercontent.com/73167311/174438096-cc2af9c9-67e3-48ee-855a-4c681e8b59fc.gif)
 
-### 作業
+## 作業
 設計視訊聊天畫面（其實都是靜態圖片），圖片大小會依據是否有被 pin 或是被隱藏而調整。
   * 請從 _assignment_ 分支中下載起始檔案，裡面有用 **TODO** 標記你需要設計的地方。總共只有三個步驟，會練習到 Layout Protocol 和 LayoutValueKey。
   * 詳細內容可以看[影片的 12:00](https://youtu.be/mGDabtyxoqA?t=721) 有介紹這個練習題。
